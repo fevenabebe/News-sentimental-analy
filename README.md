@@ -25,8 +25,12 @@ news-sentiment-analysis/
 ├── data/                  # Dataset files
 ├── notebooks/             # Jupyter notebooks
 │   ├── task1_eda.ipynb
-│   ├── task2_modeling.ipynb
-│
+│   ├── task2_AAPL_eda.ipynb
+│   ├── task2_AMZN_eda.ipynb
+│   ├── task2_GOOG_eda.ipynb
+|   ├── task2_META_eda.ipynb
+│   ├── task2_NVDA_eda.ipynb
+|
 ├── src/                   # Source code
 │   ├── preprocessing.py   # Text cleaning functions
 │   ├── features.py        # Feature engineering
@@ -45,7 +49,7 @@ news-sentiment-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/fevenabebe/News-sentimental-analysis.git
+git clone https://github.com/fevenabebe/News-sentimental-analy.git
 cd News-sentimental-analysis
 ```
 
@@ -76,6 +80,9 @@ Open:
 
 * `notebooks/task1_eda.ipynb`
 * `notebooks/task2_modeling.ipynb`
+ * `notebooks/task2_AMZN_eda.ipynb
+* `notebooks/task2_META_eda.ipynb
+* `notebooks/task2_NVDA_eda.ipynb
 
 ---
 
