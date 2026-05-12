@@ -30,6 +30,11 @@ news-sentiment-analysis/
 │   ├── task2_GOOG_eda.ipynb
 |   ├── task2_META_eda.ipynb
 │   ├── task2_NVDA_eda.ipynb
+│   ├── task3_AAPL_fin.ipynb
+│   ├── task3_AMZN_fin.ipynb
+│   ├── task3_GOOG_fin.ipynb
+|   ├── task3_META_fin.ipynb
+│   ├── task3_NVDA_fin.ipynb
 |
 ├── src/                   # Source code
 │   ├── preprocessing.py   # Text cleaning functions
@@ -79,10 +84,17 @@ jupyter notebook
 Open:
 
 * `notebooks/task1_eda.ipynb`
-* `notebooks/task2_modeling.ipynb`
- * `notebooks/task2_AMZN_eda.ipynb
+* `notebooks/task2_AAPL.ipynb`
+* `notebooks/task2_AMZN_eda.ipynb
 * `notebooks/task2_META_eda.ipynb
+* `notebooks/task2_GOOG_eda.ipynb
 * `notebooks/task2_NVDA_eda.ipynb
+* `notebooks/task3_AAPL.ipynb`
+* `notebooks/task3_AMZN_eda.ipynb
+* `notebooks/task3_META_eda.ipynb
+* `notebooks/task2_GOOG_eda.ipynb
+* `notebooks/task3_NVDA_eda.ipynb
+
 
 ---
 
